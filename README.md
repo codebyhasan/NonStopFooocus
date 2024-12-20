@@ -10,13 +10,13 @@ Welcome to the installation guide for Fooocus on Sagemaker Studio Lab. This guid
 1. **Clone the Repository**: Begin by cloning the Fooocus repository into your Sagemaker Studio Lab environment. You can do this by running the following command:
 
    ```bash
-   git clone https://github.com/epic-miner/epic-miner-Fooocus-Sagemaker-Studio-Lab.git
+   git clone https://github.com/codebyhasan/NonStopFooocus
    ```
 
 2. **Navigate to the Repository**: Once the repository is cloned, navigate into the repository directory:
 
    ```bash
-   cd epic-miner-Fooocus-Sagemaker-Studio-Lab
+   cd NonStopFooocus
    ```
 
 3. **Run the Installation Script**: Execute the installation script `start.sh` to set up Fooocus:
